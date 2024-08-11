@@ -9,13 +9,12 @@ The Arab Writers Union
 - [LOAL](https://www.libraryofarabicliterature.org/): Library of Arabic
    Literature by NYU.
 - [Shamela](https://shamela.org): imported 2018 dump. 
+- [Lisan Arab Library](https://www.lisanarb.com/): Includes a mix of articles,
+   essays, and research papers. The excluded items are listed under [lisanarb/err-num.tsv](https://github.com/avidseeker/arabooks/tree/main/lisanarb).
 
 Partially-imported sources:
-- [Lisan Arab Library](https://www.lisanarb.com/): Includes a mix of articles,
-   essays, and research papers. The failed items are listed under
-   [lisanarb/err-num.tsv](https://github.com/avidseeker/arabooks/tree/main/lisanarb).
 - [Waqfeya](https://waqfeya.net/): Removed many books since 2020. Check the
-  Wayback machine.
+  Wayback machine, and lacks metadata
 
 To-do sources:
 - [awu-dam.com](https://web.archive.org/web/20010402004703/http://awu-dam.com/):
@@ -24,6 +23,7 @@ To-do sources:
   newer version of awu-dam.org
 - [Hindawi](https://www.hindawi.org/books)
 - [GoldenShamela](https://goldenshamela.com/)
+- [Turath](https://app.turath.io/)
 
 Missing sources:
 - Archive of Bibliotheca Alexandrina: there was a circulated drive link with
