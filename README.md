@@ -1,7 +1,8 @@
 An index of +12K Arabic books metadata.
 
 ## Import status
-- [Export to OpenLibrary](https://github.com/internetarchive/openlibrary/issues/9726)
+- [OpenLibrary Import](https://github.com/internetarchive/openlibrary/issues/9726)
+- [Wikidata import](https://www.wikidata.org/wiki/Wikidata:Dataset_Imports/Arabooks)
 
 Completely-imported sources (as of August 2024):
 - [awu-dam.org](https://web.archive.org/web/20060511181911/http://www.awu-dam.org/):
@@ -24,6 +25,7 @@ To-do sources:
 - [Hindawi](https://www.hindawi.org/books)
 - [GoldenShamela](https://goldenshamela.com/)
 - [Turath](https://app.turath.io/)
+- [ktbh](https://www.ktbbh.com/)
 
 Missing sources:
 - Archive of Bibliotheca Alexandrina: there was a circulated drive link with
